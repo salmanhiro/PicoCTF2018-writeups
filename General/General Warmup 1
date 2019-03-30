@@ -1,0 +1,5 @@
+If I told you your grade was 0x41 in hexadecimal, what would it be in ASCII?
+
+#Solution:
+1.Just google for hex to ASCII converter
+2.You'll find the ASCII format, combine it with flag format. done!
